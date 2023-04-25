@@ -1,2 +1,2 @@
 # CoralSnake
-CoralSnake seeks to automate the segmentation of 1D segmented data plots.
+CoralSnake seeks to automate the segmentation of 1D sequential data plots.
